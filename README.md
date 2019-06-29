@@ -115,8 +115,8 @@ html {
 <div class="landscape-view"><img src="turn.png"></div>
 
 <!--
-<p align="right">Laguna-Beach-Resort-2-Condominium</p>-->
-<h1><span class="yellow"><marquee behavior="lrft">!!!Laguna-Beach-Resort-2-Condominium!!!</marquee></span></h1>
+<p align="right">Seven-Seas-Resort</p>-->
+<h1><span class="yellow"><marquee behavior="lrft">!!!Seven-Seas-Resort!!!</marquee></span></h1>
 
 <p align="right"><marquee direction="left" scrollamount="5" width="100%">TEL:+81-80-3120-0260</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
