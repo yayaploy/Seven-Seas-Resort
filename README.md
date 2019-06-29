@@ -56,7 +56,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://yayaploy.github.io/Seven-Seas-Resort/20190628_002.jpg) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://yayaploy.github.io/Seven-Seas-Resort/20190628_001.jpg) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -128,7 +128,7 @@ html {
 
 
 <h3><span class="white">↓ 2019/06/28</span></h3>
-<a href="20190628_001.jpg" data-lightbox="abc"><img src="20190628_001.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190628_002.jpg" data-lightbox="abc"><img src="20190628_002.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190629_001.jpg" data-lightbox="abc"><img src="20190629_001.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190628_003.jpg" data-lightbox="abc"><img src="20190628_003.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190628_004.jpg" data-lightbox="abc"><img src="20190628_004.jpg" alt="サンプル画像" width="900" /></a>
