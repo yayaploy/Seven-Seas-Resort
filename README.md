@@ -56,7 +56,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://yayaploy.github.io/Seven-Seas-Resort/20190629_001.jpg) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://yayaploy.github.io/Seven-Seas-Resort/20190628_002.jpg) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -126,39 +126,40 @@ html {
 </p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<!--
-<h3><span class="white">↓ 2019/05/19</span></h3>
-<a href="20190519_001.JPG" data-lightbox="abc"><img src="20190519_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190519_004.JPG" data-lightbox="abc"><img src="20190519_004.JPG" alt="サンプル画像" width="900" /></a>
-<!--
-<a href="20190519_003.JPG" data-lightbox="abc"><img src="20190519_003.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190519_002.JPG" data-lightbox="abc"><img src="20190519_002.JPG" alt="サンプル画像" width="900" /></a>
-<!--
-<a href="20190519_005.JPG" data-lightbox="abc"><img src="20190519_005.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190519_006.JPG" data-lightbox="abc"><img src="20190519_006.JPG" alt="サンプル画像" width="900" /></a>
-<!--
-<a href="20190613_001.JPG" data-lightbox="abc"><img src="20190613_001.JPG" alt="サンプル画像" width="900" /></a>
-<!--
-<a href="20190613_002.JPG" data-lightbox="abc"><img src="20190613_002.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190613_003.JPG" data-lightbox="abc"><img src="20190613_003.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190613_004.JPG" data-lightbox="abc"><img src="20190613_004.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190613_005.JPG" data-lightbox="abc"><img src="20190613_005.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190613_006.JPG" data-lightbox="abc"><img src="20190613_006.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190613_007.JPG" data-lightbox="abc"><img src="20190613_007.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190613_008.JPG" data-lightbox="abc"><img src="20190613_008.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190618_002.JPG" data-lightbox="abc"><img src="20190618_002.JPG" alt="サンプル画像" width="900" /></a>
-<br><br><br><br>
-<p>駐車場はお店の左側です。</p>
-<a href="20190613_009.JPG" data-lightbox="abc"><img src="20190613_009.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190613_010.JPG" data-lightbox="abc"><img src="20190613_010.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="white">↓ 2019/06/28</span></h3>
+<a href="20190628_001.jpg" data-lightbox="abc"><img src="20190628_001.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190629_001.jpg" data-lightbox="abc"><img src="20190629_001.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190628_003.jpg" data-lightbox="abc"><img src="20190628_003.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190628_004.jpg" data-lightbox="abc"><img src="20190628_004.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190628_005.jpg" data-lightbox="abc"><img src="20190628_005.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190628_006.jpg" data-lightbox="abc"><img src="20190628_006.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190628_007.jpg" data-lightbox="abc"><img src="20190628_007.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190628_008.jpg" data-lightbox="abc"><img src="20190628_008.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190628_009.jpg" data-lightbox="abc"><img src="20190628_009.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190628_010.jpg" data-lightbox="abc"><img src="20190628_010.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190628_011.jpg" data-lightbox="abc"><img src="20190628_011.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190628_012.jpg" data-lightbox="abc"><img src="20190628_012.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190628_013.jpg" data-lightbox="abc"><img src="20190628_013.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190628_014.jpg" data-lightbox="abc"><img src="20190628_014.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190628_015.jpg" data-lightbox="abc"><img src="20190628_015.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190628_016.jpg" data-lightbox="abc"><img src="20190628_016.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190628_017.jpg" data-lightbox="abc"><img src="20190628_017.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190628_018.jpg" data-lightbox="abc"><img src="20190628_018.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190628_019.jpg" data-lightbox="abc"><img src="20190628_019.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190628_020.jpg" data-lightbox="abc"><img src="20190628_020.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190628_021.jpg" data-lightbox="abc"><img src="20190628_021.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190628_022.jpg" data-lightbox="abc"><img src="20190628_022.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190628_023.jpg" data-lightbox="abc"><img src="20190628_023.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190628_024.jpg" data-lightbox="abc"><img src="20190628_024.jpg" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
-<!--
+
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
--->
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
