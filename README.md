@@ -118,7 +118,7 @@ html {
 <p align="right">Seven-Seas-Resort</p>-->
 <h1><span class="yellow"><marquee behavior="lrft">!!!Seven-Seas-Resort!!!</marquee></span></h1>
 
-<p align="right"><marquee direction="left" scrollamount="5" width="100%">TEL:+81-80-3120-0260</marquee></p>
+<p align="right"><marquee direction="left" scrollamount="5" width="100%">ให้เช่า,TEL:+81-80-3120-0260</marquee></p>
 
 <p align="left"> <img src="https://yayaploy.github.io/Laguna-Beach-Resort-2-Condominium/QR_thai.jpg" alt="QR_code" width="100" >LINE,Link <br>HP,Link<img src="QR_sevensea.png" alt="QR_code" width="100" >
 <img src="https://yayaploy.github.io/kaomangai/venus1.gif" alt="https://yayaploy.github.io/kaomangai/venus1.gif" width="50">
