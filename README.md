@@ -168,7 +168,7 @@ html {
 
 Map
 <br>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d46377.24135045555!2d100.8707969941578!3d12.888098782953518!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310296860185d371%3A0x4a00164d83f82797!2sSeven+Seas+Resort!5e0!3m2!1sja!2sjp!4v1561775401249!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31115.28070750457!2d100.87983293076911!3d12.88133140412785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x479f814a48aa1249!2sSeven%20Seas%20Condo%20Resort%20Jomtien!5e0!3m2!1sja!2sjp!4v1574845052923!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 </body>
 <br><br>
 
